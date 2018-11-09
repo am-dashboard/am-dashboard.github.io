@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="22px" viewBox="0 0 34 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/input/undefined</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons-to-export" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/input/undefined">
+            <rect id="Rectangle-7" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="34" height="22"></rect>
+            <path d="M25,14 L29,14 C29.5522847,14 30,14.4477153 30,15 L30,17 C30,17.5522847 29.5522847,18 29,18 L25,18 C24.4477153,18 24,17.5522847 24,17 L24,15 C24,14.4477153 24.4477153,14 25,14 Z M1,7 L33,7 L33,11 L1,11 L1,7 Z" id="icon_card_undefined" fill-opacity="0.24" fill="#000000"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="22px" viewBox="0 0 31 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-export-export</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10,4.97487373 L3,4.97487373 C1.8954305,4.97487373 1,5.87030423 1,6.97487373 L1,9.97487373 L0,9.97487373 L0,6.97487373 C-2.02906125e-16,5.31801948 1.34314575,3.97487373 3,3.97487373 L10,3.97487373 L10,4.97487373 Z M14.4497475,4.47487373 L9.97487373,8.94974747 L9.33560606,8.31047979 L13.1712121,4.47487373 L9.33560606,0.639267676 L9.97487373,0 L14.4497475,4.47487373 Z" id="path-1"></path>
+    </defs>
+    <g id="arrow-export-export" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/input/arrow-export" transform="translate(-7.000000, -8.000000)">
+            <g id="icon/input/-none"></g>
+            <g id="icon_attention" stroke-width="1" fill-rule="evenodd" transform="translate(17.000000, 14.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Combined-Shape" fill-opacity="0" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <g id="color/black_60-%" mask="url(#mask-2)" fill="#000000" fill-opacity="0.6">
+                    <g transform="translate(-17.000000, -14.000000)" id="color">
+                        <rect x="0" y="0" width="48" height="38"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
